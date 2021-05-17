@@ -49,7 +49,7 @@
     "gatsby-transformer-sharp": "^2.10.1",
     "gatsby-transformer-yaml": "^2.7.0",
     "intersection-observer": "^0.11.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "lodash-webpack-plugin": "^0.11.5",
     "node-sass": "^4.12.0",
     "parcel-bundler": "^1.12.3",
